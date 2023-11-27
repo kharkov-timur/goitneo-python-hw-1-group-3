@@ -6,6 +6,8 @@
 
 ### Enter the command in the console - python main.py
 
+### The result will be a list of birthdays on the current week.
+
 ## 2. The second task is a contact bot
 
 ### To start the contact bot
